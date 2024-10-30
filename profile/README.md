@@ -1,6 +1,6 @@
 # ZL Academy
 
-![alt text](imgs/ZLAcademyWallpaper2.png)
+![ZLAcademyWallpaper2](https://github.com/user-attachments/assets/d64cf58b-1c89-49e6-8528-603bbbcb797e)
 
 ## Introdução
 
@@ -12,13 +12,13 @@ O curso faz parte de um convênio firmado entre essas instituições para preenc
 
 ## Equipe Linus
 
-![alt text](imgs/linus.png)
+![linus](https://github.com/user-attachments/assets/cefd0963-b0f1-4cb3-962b-44b7177178e5)
 
 Nosso mascote é o pinguim, em homenagem ao criador do sistema operacional Linux, Linus Torvalds, que inspira a inovação e a colaboração.
 
 ## Colaboradores
 
-![alt text](<imgs/Padrão para fotos da Equipe Linus no Blog (1).png>)
+![Padrão para fotos da Equipe Linus no Blog (1)](https://github.com/user-attachments/assets/801dec01-80e6-4a80-957d-e5f360afdd36)
 
 - Ademar Castro: [LinkedIn](https://br.linkedin.com/in/ademar-castro-8bb95b256)
 - Jade Santos: [LinkedIn]()
