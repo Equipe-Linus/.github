@@ -1,24 +1,25 @@
 # ZL Academy
 
-![ZLAcademyWallpaper2](https://github.com/user-attachments/assets/d64cf58b-1c89-49e6-8528-603bbbcb797e)
+<img src="https://github.com/user-attachments/assets/d64cf58b-1c89-49e6-8528-603bbbcb797e" alt="ZLAcademyWallpaper2" width="600">
 
 ## Introdução
 
 O projeto **ZL Academy Digital Transformation** é uma iniciativa inovadora que visa capacitar profissionais nas áreas de **Python**, **Aprendizado de Máquina**, **Inteligência Artificial** e **Hyperautomation**. A proposta é promover a transformação digital e o desenvolvimento de habilidades essenciais para o mercado de trabalho na Amazônia Ocidental, fortalecendo o capital intelectual da região.
 
-Essa academia é organizada pelo **DX - Digital Transformation Experience**, **IFAM** (Instituto Federal de Educação, Ciência e Tecnologia do Amazonas), **FAEPI** (Fundação de Apoio ao Ensino, Pesquisa, Extensão e Interiorização do IFAM) e **LG Electronics**. 
+Essa academia é organizada pelo **DX - Digital Transformation Experience**, **IFAM** (Instituto Federal de Educação, Ciência e Tecnologia do Amazonas), **FAEPI** (Fundação de Apoio ao Ensino, Pesquisa, Extensão e Interiorização do IFAM) e **LG Electronics**.
 
 O curso faz parte de um convênio firmado entre essas instituições para preencher lacunas entre academia e indústria, formando profissionais altamente capacitados em tecnologias emergentes. O projeto também tem um papel social, ao contribuir para a formação de talentos locais e para a inovação nos processos produtivos da indústria.
 
 ## Equipe Linus
 
-![linus](https://github.com/user-attachments/assets/cefd0963-b0f1-4cb3-962b-44b7177178e5)
+<img src="https://github.com/user-attachments/assets/cefd0963-b0f1-4cb3-962b-44b7177178e5" alt="linus" width="300">
 
 Nosso mascote é o pinguim, em homenagem ao criador do sistema operacional Linux, Linus Torvalds, que inspira a inovação e a colaboração.
 
 ## Colaboradores
 
-![Padrão para fotos da Equipe Linus no Blog (1)](https://github.com/user-attachments/assets/801dec01-80e6-4a80-957d-e5f360afdd36)
+<img src="https://github.com/user-attachments/assets/801dec01-80e6-4a80-957d-e5f360afdd36" alt="Padrão para fotos da Equipe Linus no Blog" width="400">
+
 
 - Ademar Castro: [LinkedIn](https://br.linkedin.com/in/ademar-castro-8bb95b256)
 - Jade Santos: [LinkedIn]()
