@@ -18,7 +18,7 @@ Organizado pelo **DX - Digital Transformation Experience**, **IFAM**, **FAEPI** 
 
 | Ademar Castro | Jade Santos | Natália Rufino | Rodrigo Souza |
 | :---: | :---: | :---: | :---: |
-| [LinkedIn](https://br.linkedin.com/in/ademar-castro-8bb95b256) | [LinkedIn]() | [LinkedIn]() | [LinkedIn]() |
+| [LinkedIn](https://br.linkedin.com/in/ademar-castro-8bb95b256) | [LinkedIn]() | [LinkedIn]() | [LinkedIn](https://www.linkedin.com/in/rodrigo-souza-859131115/) |
 
 </div>
 
